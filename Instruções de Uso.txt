@@ -1,0 +1,6 @@
+Todas as alterações tanto da ordem (grau da arvore), quanto do vetor de entrada, busca e remoção devem ser alterados na main,
+caso contrario só executar o comando no terminal make run para compilar!
+
+site usado para teste da árvore B: https://www.cs.usfca.edu/~galles/visualization/BTree.html
+
+A forma de visualização é em indentação onde os nó mais a esquerda é a raiz e os pais das folhas que ficam mais a direita de cada elemento
